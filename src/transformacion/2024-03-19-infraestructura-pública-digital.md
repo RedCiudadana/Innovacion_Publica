@@ -1,27 +1,15 @@
 ---
-title: Infraestructura Pública Digital
+title: Participación Ciudadana y Colaboración
 image: /assets/cms/td-51.png
-description: Invertimos en infraestructura tecnológica para soportar el
-  crecimiento y la innovación a largo plazo.
+description: Fomento de la participación activa de los ciudadanos en los
+  procesos de gobernanza.
 date: 2024-03-19T15:08:40.453Z
 tiempo: 3 mins
 highlight: false
 ---
-<!--StartFragment-->
+Fomentar la participación activa de los ciudadanos en los procesos de gobernanza es crucial para la innovación pública. La participación ciudadana fortalece la democracia, mejora la calidad de las decisiones gubernamentales y aumenta la legitimidad de las políticas públicas.
+Ejemplos:
 
-* La Infraestructura Pública Digital (DPI, por sus siglas en inglés) se presenta como un elemento crucial para impulsar la transformación digital, especialmente en el contexto de los Objetivos de Desarrollo Sostenible (ODS). La necesidad de un enfoque más estratégico y colaborativo en la implementación de soluciones digitales se hace evidente ante los retos de la Agenda 2030, donde muchos ODS están rezagados en su progreso.
-* A menudo, la transformación digital se lleva a cabo de manera aislada y sin una estrategia unificada, lo que limita su impacto y alcance. La dependencia de soluciones patentadas o de código cerrado restringe la posibilidad de compartir aprendizajes y mejores prácticas de manera amplia, obstaculizando así el potencial de innovación y escalabilidad.
-* En un mundo donde casi la mitad de los ODS están atrasados, la digitalización surge como una herramienta potente para revitalizar los esfuerzos hacia el desarrollo sostenible. La infraestructura pública digital, al enfocarse en soluciones abiertas y estándares abiertos, puede acelerar la entrega de servicios públicos digitales, fomentar la innovación en el sector privado y propulsar el desarrollo sostenible.
-
-
-* **Estrategia**
-* * Implementar una DPI eficaz requiere que los gobiernos se enfoquen en la inclusión y en elementos técnicos clave como estándares, apertura e interoperabilidad desde el inicio. Esto implica construir una infraestructura que sea compartida, abierta y modular, permitiendo una integración y adaptación efectivas según las necesidades locales.
-* **Iniciativas de DPI**
-
-  * Desarrollar una comprensión técnica y estratégica del papel de la DPI.
-  * Invertir en comunidades de código abierto que desarrollen los componentes básicos de la DPI.
-  * Fomentar el intercambio de conocimientos y la transferencia de tecnología entre diferentes regiones y países.
-* **Lectura Recomendada**
-* * Para profundizar en este tema, se recomienda el documento "Digital Public Infrastructure for a Future-Ready Society" (Infraestructura Pública Digital para una Sociedad Preparada para el Futuro), que ofrece un análisis detallado de cómo la DPI puede ser un catalizador para el desarrollo sostenible y la transformación digital.
-
-<!--EndFragment-->
+* Plataformas de Participación Ciudadana: Desarrollar herramientas digitales que permitan a los ciudadanos participar en consultas públicas, debates y decisiones gubernamentales.
+* Consultas Públicas en Línea: Implementar sistemas que faciliten la recolección de opiniones y sugerencias de los ciudadanos sobre temas específicos de interés público.
+* Mecanismos de Co-creación de Políticas: Fomentar la colaboración entre el gobierno y los ciudadanos en la elaboración y ejecución de políticas públicas, asegurando que las decisiones reflejen las necesidades y deseos de la población.
