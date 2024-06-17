@@ -1,21 +1,15 @@
 ---
-title: Tecnologías Emergentes
+title: Innovación Social y Comunitaria
 image: /assets/cms/td-50.png
-description: Incorporamos IA, blockchain y más, para transformar la administración pública.
+description: Iniciativas que resuelvan problemas sociales y mejoren la calidad
+  de vida de las comunidades.
 date: 2024-03-19T15:07:52.536Z
 tiempo: 10 mins
 highlight: false
 ---
-<!--StartFragment-->
+La promoción de iniciativas que resuelvan problemas sociales y mejoren la calidad de vida de las comunidades es un componente esencial de la innovación pública. Estas iniciativas deben estar centradas en las necesidades de la comunidad y diseñadas para generar un impacto positivo y sostenible.
+Ejemplos:
 
-* La adopción de Tecnologías Emergentes es un componente crítico de nuestra estrategia de Gobierno Digital. Exploramos y adoptamos innovaciones como la inteligencia artificial, blockchain, y el Internet de las Cosas (IoT) para mejorar los servicios públicos, aumentar la eficiencia operativa y promover el desarrollo económico.
-* Estas tecnologías ofrecen oportunidades significativas para transformar aspectos clave de la gobernanza, como la gestión de datos, la seguridad, la prestación de servicios y la participación ciudadana. Estamos comprometidos a integrar estas tecnologías emergentes de manera responsable, asegurando que se alineen con nuestros valores de transparencia, accesibilidad y sostenibilidad.
-* Estrategia: Investigar y adoptar tecnologías emergentes como la inteligencia artificial, blockchain y el Internet de las Cosas para mejorar la prestación de servicios públicos, la eficiencia operativa y la innovación en la gestión gubernamental.
-* Iniciativas:
-
-  * Proyectos piloto para integrar inteligencia artificial en servicios de atención ciudadana.
-  * Desarrollo de una plataforma de AI para mejorar la transparencia en contrataciones públicas.
-  * Implementación de soluciones IoT para la gestión inteligente de ciudades.
-* Lectura Recomendada: "Revolución Tecnológica en el Gobierno: Oportunidades y Desafíos" - ofrece una visión sobre cómo las tecnologías emergentes están redefiniendo el sector público.
-
-<!--EndFragment-->
+* Proyectos de Desarrollo Comunitario: Iniciativas que fomenten el desarrollo económico y social de las comunidades, mejorando su acceso a servicios básicos y oportunidades de empleo.
+* Programas de Inclusión Social: Políticas y programas diseñados para integrar a los grupos marginados y vulnerables en la vida económica y social del país.
+* Soluciones Innovadoras para la Sostenibilidad: Proyectos que promuevan prácticas sostenibles y respetuosas con el medio ambiente, abordando problemas como el cambio climático y la gestión de recursos naturales.
