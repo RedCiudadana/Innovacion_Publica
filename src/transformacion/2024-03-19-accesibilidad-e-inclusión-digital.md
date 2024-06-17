@@ -1,21 +1,15 @@
 ---
-title: Accesibilidad e Inclusión Digital
+title: Políticas Públicas y Gobernanza
 image: /assets/cms/td-49.png
-description: Nos aseguramos de que la tecnología beneficie a todos, sin excepciones.
+description: Desarrollo y promoción de políticas que incentiven la innovación y
+  la participación ciudadana.
 date: 2024-03-19T15:07:22.895Z
 tiempo: 10 mins
 highlight: false
 ---
-<!--StartFragment-->
+El desarrollo de políticas públicas que incentiven y faciliten la innovación dentro del gobierno es crucial para crear un entorno propicio para el cambio. Las políticas deben ser diseñadas para fomentar la experimentación, la adopción de nuevas tecnologías y la participación ciudadana en la toma de decisiones.
+Ejemplos:
 
-* La Accesibilidad e Inclusión Digital son principios clave en nuestra agenda de Gobierno Digital. Nos comprometemos a garantizar que todos los ciudadanos, independientemente de sus capacidades físicas o recursos tecnológicos, tengan acceso a los servicios digitales del gobierno. Esto implica no solo adaptar los sitios web y plataformas para ser utilizados por personas con discapacidad, sino también asegurar que las tecnologías digitales sean comprensibles y manejables para todos los usuarios.
-* Nuestras políticas y prácticas de accesibilidad e inclusión digital buscan eliminar las barreras que impiden a las personas aprovechar plenamente los beneficios de la sociedad de la información. Esto incluye la capacitación y educación digital para aumentar la competencia tecnológica de todos los sectores de la sociedad, especialmente los más vulnerables.
-* Estrategia: Asegurar que todos los servicios y plataformas digitales del gobierno sean fácilmente accesibles para personas con discapacidad, y promover la inclusión digital a través de la educación y el acceso a la tecnología.
-* Iniciativas:
-
-  * Apoyo en adaptación de sitios web y servicios digitales a estándares internacionales de accesibilidad.
-  * Programas de inclusión digital que proporcionen tecnología y formación a comunidades desatendidas.
-  * Campañas de sensibilización sobre la importancia de la accesibilidad digital.
-* Lectura Recomendada: "Accesibilidad e Inclusión en la Era Digital" - aborda cómo crear servicios digitales inclusivos y accesibles para todos.
-
-<!--EndFragment-->
+* Marco Regulatorio para la Innovación: Establecer regulaciones que faciliten la implementación de prácticas innovadoras, asegurando que las normas no sean un obstáculo para el cambio.
+* Políticas de Gobierno Abierto: Promover la transparencia y la rendición de cuentas mediante la implementación de políticas que obliguen a los gobiernos a hacer públicos sus datos y decisiones.
+* Mecanismos de Participación Ciudadana: Crear sistemas y plataformas que permitan a los ciudadanos participar activamente en la elaboración de políticas y en la supervisión de la administración pública.
